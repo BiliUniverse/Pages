@@ -1,0 +1,113 @@
+# Meta Data for SEO
+
+## Homepage
+title = "BiliUniverse"
+titleSeparator = "-"
+titleAddition = "哔哩万象"
+description = "流媒体平台功能增强系列模块"
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["biliuniverse.png"]
+ogLocale = "zh_cn"
+domainTLD = "manual.biliuniverse.io"
+titleHome = "BiliUniverse"
+
+## Twitter Cards
+twitterSite = ""
+twitterCreator = ""
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "BiliUniverse"
+schemaAuthor = "BiliUniverse"
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/BiliUniverse"
+schemaLocale = "zh-CN"
+schemaLogo = "android-chrome-512x512.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "biliuniverse.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/BiliUniverse"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "2023 BiliUniverse | Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "2023 BiliUniverse"
+
+# Alert
+alert = true
+alertDismissable = true
+alertText = " 如需及时了解更新说明，请订阅 Telegram 频道：<a class=\"alert-link stretched-link\" href=\"https://t.me/GetSomeFriesChannel\">🍟 整点薯条</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/BiliUniverse/Pages"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = true
+lastMod = false
+
+[sections]
+  sectionNav = ["docs", "guides"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

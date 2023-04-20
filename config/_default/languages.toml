@@ -1,0 +1,7 @@
+[cn]
+  languageName = "Chinese (Simplified)"
+  contentDir = "content/cn"
+  weight = 10
+  [cn.params]
+    languageISO = "CN"
+    languageTag = "zh-CN"

@@ -1,0 +1,20 @@
+- id: get-started
+  translation: "开始使用"
+
+- id: on-this-page
+  translation: "导航"
+
+- id: search-text
+  translation: "搜索..."
+
+- id: 404-title
+  translation: "404 Not Found :("
+
+- id: 404-text
+  translation: "你所访问的页面不存在或已被删除"
+
+- id: browse
+  translation: "浏览"
+
+- id: no-results-for
+  translation: "找不到"
