@@ -43,15 +43,15 @@ BiliUniverse 模块工作时需要代理工具提供支持，由于某些原因�
 
 点击标题访问对应模块的 Wiki（安装链接在页面底部）：
 
-#### [⚙ Enhanced](https://github.com/BiliUniverse/Universe/wiki/%E2%9A%99-Enhanced#%E7%AE%80%E4%BB%8B)
+#### [<img src="/enhanced_108x.png" height="30" width="30"/> Enhanced](https://github.com/BiliUniverse/Universe/wiki/%E2%9A%99-Enhanced#%E7%AE%80%E4%BB%8B)
 
 全面自定义哔哩哔哩 App 主界面，修改首页和底栏元素的显示顺序和触发功能。
 
-#### [🌐 Global](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%8C%90-Global)
+#### [<img src="/global_108x.png" height="30" width="30"/> Global](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%8C%90-Global)
 
 自动识别番剧影视地区限制并切换线路至对应地区，快捷返回各区域搜索结果。
 
-#### ✈ Roaming (🚧 开发中)
+#### <img src="/roaming_108x.png" height="30" width="30"/> Roaming (🚧 开发中)
 
 通过公共解析服务器实现地区漫游，进而提供其他增强功能。  
 尚未上线，请耐心等待。
