@@ -3,13 +3,13 @@ title: "介绍"
 description: "BiliUniverse - 流媒体平台功能增强系列模块."
 lead: "BiliUniverse - 流媒体平台功能增强系列模块"
 date: 2023-04-20T20:00:00+08:00
-lastmod: 2023-04-20T20:00:00+08:00
+lastmod: 2023-04-21T17:00:00+08:00
 draft: false
 images: []
 menu:
   docs:
     parent: "prologue"
-weight: 100
+weight: 110
 toc: true
 ---
 
@@ -27,7 +27,7 @@ toc: true
 
 {{< alert icon="👉" text="老用户推荐直接阅读 Wiki" />}}
 
-各个模块的详细全面说明 [Wiki →](https://github.com/BiliUniverse/Universe/wiki)
+各个模块的详细全面说明 [Wiki →](/docs/wiki/home)
 
 ## 帮助
 

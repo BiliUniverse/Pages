@@ -2,7 +2,7 @@
 title : "贡献"
 description: "想为本网页贡献内容的小伙伴请看这里"
 date: 2023-04-20T20:00:00+08:00
-lastmod: 2023-04-20T20:00:00+08:00
+lastmod: 2023-04-21T17:00:00+08:00
 draft: false
 images: []
 menu:
@@ -12,10 +12,6 @@ toc: true
 ---
 
 ## 前言
-
-由于技术原因，暂时无法将这个 Hugo 静态页面和 Github Wiki 实时同步（如果有方法请在群里告知）。
-
-所以本网页所包含的内容会与 Wiki 有出入，侧重点也会不一样。版面更多更灵活，这就给小伙伴们的贡献留下了空间。
 
 本页面的 Github 仓库为 [BiliUniverse/Pages](https://github.com/BiliUniverse/Pages)
 

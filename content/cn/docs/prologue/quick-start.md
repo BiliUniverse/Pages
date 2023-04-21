@@ -3,13 +3,13 @@ title: "快速上手"
 description: "使用 BiliUniverse 系列模块的简明指南"
 lead: "使用 BiliUniverse 系列模块的简明指南"
 date: 2023-04-20T20:00:00+08:00
-lastmod: 2023-04-20T20:00:00+08:00
+lastmod: 2023-04-21T17:00:00+08:00
 draft: false
 images: []
 menu:
   docs:
     parent: "prologue"
-weight: 110
+weight: 120
 toc: true
 ---
 
@@ -41,13 +41,13 @@ BiliUniverse 模块工作时需要代理工具提供支持，由于某些原因�
 
 ## 安装模块
 
-点击标题访问对应模块的 Wiki（安装链接在页面底部）：
+点击标题访问对应模块的安装链接：
 
-#### [<img src="/enhanced_108x.png" height="30" width="30"/> Enhanced](https://github.com/BiliUniverse/Universe/wiki/%E2%9A%99-Enhanced#%E7%AE%80%E4%BB%8B)
+#### [<img src="/enhanced_108x.png" height="30" width="30"/> Enhanced](/docs/wiki/enhanced#安装链接)
 
 全面自定义哔哩哔哩 App 主界面，修改首页和底栏元素的显示顺序和触发功能。
 
-#### [<img src="/global_108x.png" height="30" width="30"/> Global](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%8C%90-Global)
+#### [<img src="/global_108x.png" height="30" width="30"/> Global](/docs/wiki/global#安装链接)
 
 自动识别番剧影视地区限制并切换线路至对应地区，快捷返回各区域搜索结果。
 
@@ -58,7 +58,7 @@ BiliUniverse 模块工作时需要代理工具提供支持，由于某些原因�
 
 ## 完成配置
 
-点击 [这里](https://github.com/BiliUniverse/Universe/wiki/%F0%9F%A7%B0-BoxJs#%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5) 按照提示安装 BoxJs 并添加本项目的订阅链接。
+点击 [🧰 BoxJs](/docs/wiki/boxjs) 按照提示安装 BoxJs 并添加本项目的订阅链接。
 
 {{< details "为什么打不开 BoxJs？" >}}
 你在这里可能会遇到访问 boxjs.com 时加载失败或者加载出奇怪网站的问题。实际上在 BoxJs 模块正常工作的时候，对这个域名的访问请求会被重定向到本地，在互联网上是不存在 BoxJs 页面的！  
