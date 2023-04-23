@@ -1,4 +1,4 @@
-baseurl = "https://manual.biliuniverse.io/"
+baseurl = "https://biliuniverse.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
